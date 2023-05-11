@@ -1,0 +1,11 @@
+D:\A电商\6.阶段六-畅购商城\chapter02 分布式文件存储解决方案-fastDFS\资源\基础架构代码\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\controller\EsManagerController.java
+D:\A电商\6.阶段六-畅购商城\chapter02 分布式文件存储解决方案-fastDFS\资源\基础架构代码\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\SeachApplication.java
+D:\A电商\6.阶段六-畅购商城\chapter02 分布式文件存储解决方案-fastDFS\资源\基础架构代码\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\service\EsManagerService.java
+D:\A电商\6.阶段六-畅购商城\chapter02 分布式文件存储解决方案-fastDFS\资源\基础架构代码\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\config\RabbitMQConfig.java
+D:\A电商\6.阶段六-畅购商城\chapter02 分布式文件存储解决方案-fastDFS\资源\基础架构代码\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\dao\ESManagerMapper.java
+D:\A电商\6.阶段六-畅购商城\chapter02 分布式文件存储解决方案-fastDFS\资源\基础架构代码\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\service\impl\SearchServiceImpl.java
+D:\A电商\6.阶段六-畅购商城\chapter02 分布式文件存储解决方案-fastDFS\资源\基础架构代码\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\listener\GoodsDelListener.java
+D:\A电商\6.阶段六-畅购商城\chapter02 分布式文件存储解决方案-fastDFS\资源\基础架构代码\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\listener\GoodsUpListener.java
+D:\A电商\6.阶段六-畅购商城\chapter02 分布式文件存储解决方案-fastDFS\资源\基础架构代码\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\service\impl\EsManagerServiceImpl.java
+D:\A电商\6.阶段六-畅购商城\chapter02 分布式文件存储解决方案-fastDFS\资源\基础架构代码\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\controller\SearchController.java
+D:\A电商\6.阶段六-畅购商城\chapter02 分布式文件存储解决方案-fastDFS\资源\基础架构代码\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\service\SearchService.java

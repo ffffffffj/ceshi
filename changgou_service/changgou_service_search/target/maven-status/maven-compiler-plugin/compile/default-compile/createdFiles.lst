@@ -1,0 +1,12 @@
+com\changgou\search\service\SearchService.class
+com\changgou\search\service\impl\EsManagerServiceImpl.class
+com\changgou\search\service\impl\SearchServiceImpl.class
+com\changgou\search\controller\SearchController.class
+com\changgou\search\listener\GoodsUpListener.class
+com\changgou\search\SeachApplication.class
+com\changgou\search\controller\EsManagerController.class
+com\changgou\search\service\impl\SearchServiceImpl$1.class
+com\changgou\search\config\RabbitMQConfig.class
+com\changgou\search\dao\ESManagerMapper.class
+com\changgou\search\service\EsManagerService.class
+com\changgou\search\listener\GoodsDelListener.class

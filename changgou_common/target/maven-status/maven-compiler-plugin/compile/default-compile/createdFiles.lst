@@ -1,0 +1,4 @@
+com\changgou\entity\Page.class
+com\changgou\util\IdWorker.class
+com\changgou\interceptor\FeignInterceptor.class
+com\changgou\util\ConvertUtils.class

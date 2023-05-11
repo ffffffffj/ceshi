@@ -1,0 +1,5 @@
+com\changgou\GoodsApplication.class
+com\changgou\goods\service\SpuService.class
+com\changgou\goods\dao\CategoryBrandMapper.class
+com\changgou\goods\service\impl\SpuServiceImpl.class
+com\changgou\goods\controller\SpuController.class
